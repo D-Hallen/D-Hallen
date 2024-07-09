@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá, me chamo Daniel 👋
 
 <!--
 **D-Hallen/D-Hallen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Skills
+Javascript HTML5 CSS React Vue.JS Node.JS TypeScript Java SpringBoot Python C++ AI
+
+## Entre em contato 
+https://www.linkedin.com/in/daniel-hallen-482660250/
