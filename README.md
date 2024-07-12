@@ -19,13 +19,17 @@
 
 ##
 
-  <div align="center">
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=D-Hallen&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_owner=true" alt="Estrelas e Forks" height= "200">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Hallen&layout=compact&theme=radical" alt="Top Linguagens" height="200">
-    <img src="https://github-readme-stats.vercel.app/api?username=D-Hallen&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_owner=true" alt="Estrelas e Forks" height="200">
 </div>
 
+##
+
 ## Entre em contato 
-<div style="disply: inline-block">
-  <img align="center" alt="Daniel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
-  https://www.linkedin.com/in/daniel-hallen-482660250/
+<div>
+  <div style="disply: inline-block">
+    <img align="center" alt="Daniel-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
+    https://www.linkedin.com/in/daniel-hallen-482660250/
+  </div>
 </div>
