@@ -20,7 +20,6 @@
 ##
 
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=D-Hallen&show_icons=true&theme=radical&count_private=true&include_all_commits=true&show_owner=true" alt="Estrelas e Forks" height= "200">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D-Hallen&layout=compact&theme=radical" alt="Top Linguagens" height="200">
 </div>
 
